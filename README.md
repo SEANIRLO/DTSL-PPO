@@ -1,6 +1,6 @@
 # DTSL-PPO
 ## Introduction
-* This is the code repository for the solution 'DTSL-PPO: A Well-Tailored Deep Reinforcement Learning Model to Highly Profit in Futures Trading Market' to 'Trading Strategies', the problem C of MCM 2022.
+* This is the code repository for the solution 'DTSL-PPO: A Well-Tailored Deep Reinforcement Learning Model to Highly Profit in Futures Trading Market' to 'Trading Strategies', problem C of MCM 2022.
 * This solution was a ***Finalist (Top 2%)*** Awardee.
 
 ## Overview
