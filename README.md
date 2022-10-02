@@ -11,5 +11,5 @@
 ## Framework
 
 <p align="center">
-  <img width="400" height="300" src="/doc/figure/Framework.png">
+  <img width="800" height="600" src="/doc/figure/Framework.JPG">
 </p>
